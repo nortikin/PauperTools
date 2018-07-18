@@ -7,7 +7,19 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## 环境搭建
 
+* 主要介绍环境搭建（从clone到本地开始） 
 
+## Archicad API
+
+* 主要是以实现Archicad API分类
+
+## Python Modules
+
+* 主要介绍怎样使用第三方的python模块
+
+## 更新日志
+
+* 提交更新的日志
 
 ## 支持项目
 
