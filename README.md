@@ -23,7 +23,7 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## 支持项目
 
-[捐赠者名单](Donation/Donor.md)
+[捐赠者名单](Donation/Donor.md) 捐赠时请注明 **Archicad** 以便于统计经费
 
 [捐赠经费使用情况](Donation/UseOfFunds.md)
 
