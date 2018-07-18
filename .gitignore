@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# dirs
+RO/
+
+#other files
+PauperTools.bsc
+PauperTools.exp
+PauperTools.lib
+PauperTools.pdb
+PauperTools.res
