@@ -19,13 +19,12 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## 更新日志
 
-* 提交更新的日志
+* 完成->解决Python模块加载路径问题，解决输出重定向问题->2018-7-27
+* 完成->下载简单配置环境即可使用->2018-7-27
 
 ## 支持项目
 
 [捐赠者名单](Donation/Donor.md) 捐赠时请注明 **Archicad** 以便于统计经费
-
-[捐赠经费使用情况](Donation/UseOfFunds.md)
 
 <img src="Imgs/wechat_donation.jpg" width="384px" height="384px" />
 
