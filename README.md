@@ -7,7 +7,13 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## 环境搭建
 
-* 主要介绍环境搭建（从clone到本地开始） 
+* [插件安装](Docs/PauperToolsInstall.md) 
+
+* [插件使用](Docs/PauperToolsUsing.md)
+
+## System API
+
+* [Logger](Docs/Logger_Module.md)
 
 ## Archicad API
 
