@@ -30,10 +30,10 @@
 *.exe
 *.out
 *.app
-
+*.pyc
 # dirs
 RO/
-
+Scripts/Secret/*.py
 #other files
 PauperTools.bsc
 PauperTools.exp
