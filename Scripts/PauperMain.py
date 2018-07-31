@@ -10,7 +10,7 @@ class PyMain(object):
         print 'PyMain.RegisterInterface' #must be print this message
         pass
     
-    def Initialize(self):
+    def Initialize(self,reload):
         # logger module testing
         #log_test.alert_test("alert_test message")
 
