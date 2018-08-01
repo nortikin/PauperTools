@@ -4,6 +4,10 @@
 ```
 import PauperTools.Logger as Logger
 ``` 
+
+### Example
+[demo](../Scripts/Tests/logger_test.py)
+
 ### Functions
 
 * **alert(msg)**

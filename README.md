@@ -22,18 +22,23 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## Archicad Modules
 
-* 主要是以实现Archicad API分类
+* 等待完善
 
-## Archicad DG Modules
+## DG Modules
 
-* 主要是以实现Archicad DG API分类
+* 等待完善
 
-## Python Modules
+## Internal Modules
 
-* 主要介绍怎样使用第三方的python模块
+* [Thread](Scripts/Tests/thread_test.py)
+
+## Third Part Modules
+
+* 等待完善
 
 ## 更新日志
 
+* 调整文档，增加例程引导--2018-8-1
 * 修复BUG，增加稳定性--2018-7-31
 * 完善插件使用文档，在Initialize函数中增加reload启动模式标识参数--2018-7-31
 * 增加重载代码稳定性--2018-7-31

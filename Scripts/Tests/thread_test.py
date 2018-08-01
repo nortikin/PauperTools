@@ -15,7 +15,7 @@ class new_thread(Thread):
         self.running=False # stop thread 
         self.join() #wait thread exit
 
-new_t=new_thread();
+new_t=new_thread()
 
 def run():
     new_t.start()
