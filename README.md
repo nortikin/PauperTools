@@ -26,9 +26,9 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 * 等待完善
 
-## DG Modules
+## ArchicadDG Modules
 
-* 等待完善
+* [Point](Docs/ArchicadDG_Point.md)
 
 ## Internal Modules
 
@@ -40,6 +40,7 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## 更新日志
 
+* 移植ArchicadDG模块下的Point类并补充相关文档--2018-8-2
 * 调整文档，增加例程引导--2018-8-1
 * 修复BUG，增加稳定性--2018-7-31
 * 完善插件使用文档，在Initialize函数中增加reload启动模式标识参数--2018-7-31
