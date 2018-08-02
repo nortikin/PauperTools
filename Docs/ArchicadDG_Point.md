@@ -8,6 +8,31 @@ from ArchicadDG import Point
 ### Example
 [demo](../Scripts/Tests/dg_point_test.py)
 
+### Testing
+```
+import Tests.dg_point_test as point_test
+
+class PyMain(object):
+    def __init__(self):
+        print "PyMain.__init__" #must be print this message
+        pass
+
+    def RegisterInterface(self):
+        print 'PyMain.RegisterInterface' #must be print this message
+        pass
+    
+    def Initialize(self,reload):
+        #archicad dg Point testing
+        point_test.test()
+        
+        print 'PyMain.Initialize' #must be print this message
+        pass
+
+    def FreeData(self):
+        print 'PyMain.FreeData' #must be print this message
+        pass
+
+```
 
 ### Functions
 

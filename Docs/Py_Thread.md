@@ -1,16 +1,12 @@
-## Logger module
-
-### Import
-```
-import PauperTools.Logger as Logger
-``` 
+## Thread 
 
 ### Example
-[demo](../Scripts/Tests/logger_test.py)
+[demo](Scripts/Tests/thread_test.py)
+
 
 ### Testing
 ```
-import Tests.logger_test as log_test
+import Tests.thread_test as threading_test
 
 class PyMain(object):
     def __init__(self):
@@ -22,33 +18,16 @@ class PyMain(object):
         pass
     
     def Initialize(self,reload):
-        # logger module testing
-        log_test.alert_test("alert_test message")
-
+        #threading testing
+        threading_test.run()
+        
         print 'PyMain.Initialize' #must be print this message
         pass
 
     def FreeData(self):
+        #threading testing
+        threading_test.stop();
         print 'PyMain.FreeData' #must be print this message
         pass
 
 ```
-### Functions
-
-* **alert(string msg)**
-* **None**
-* alert message from info window
-```
-Logger.alert(msg)
-```
-
-
-* **write(string msg)**
-* **None**
-* print message to report window
-
-```
-Logger.write(msg)
-```
-
-

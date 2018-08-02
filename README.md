@@ -32,7 +32,7 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## Internal Modules
 
-* [Thread](Scripts/Tests/thread_test.py)
+* [Thread](Docs/Py_Thread.md)
 
 ## Third Part Modules
 
