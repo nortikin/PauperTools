@@ -18,6 +18,22 @@ pt1=Point(1,1)
 pt2=Point(10,20)
 ```
 
+* **operator!=**
+* **Boolean**
+* Operator != for Point objects.
+
+```
+res=pt1!=pt2
+```
+
+* **operator==**
+* **Boolean**
+* Operator == for Point objects.
+
+```
+res=pt1==pt2
+```
+
 * **SetX(short x,short y)**
 * **None**
 * Sets the x, y coordinates of the point.
@@ -72,18 +88,3 @@ pt1.Offset(9,33)
 pt2.Offset(13,44)
 ```
 
-* **operator!=**
-* **Boolean**
-* Operator != for Point objects.
-
-```
-res=pt1!=pt2
-```
-
-* **operator==**
-* **Boolean**
-* Operator == for Point objects.
-
-```
-res=pt1==pt2
-```
