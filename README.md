@@ -29,6 +29,7 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 ## ArchicadDG Modules
 
 * [Point](Docs/ArchicadDG_Point.md)
+* [Rect](Docs/ArchicadDG_Rect.md)
 
 ## Internal Modules
 
@@ -40,6 +41,7 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## 更新日志
 
+* 移植ArchicadDG模块下的Rect类并补充相关文档--2018-8-2
 * 移植ArchicadDG模块下的Point类并补充相关文档--2018-8-2
 * 调整文档，增加例程引导--2018-8-1
 * 修复BUG，增加稳定性--2018-7-31
