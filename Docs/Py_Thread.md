@@ -1,7 +1,7 @@
 ## Thread 
 
 ### Example
-[demo](Scripts/Tests/thread_test.py)
+[demo](../Scripts/Tests/thread_test.py)
 
 
 ### Testing
