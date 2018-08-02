@@ -4,6 +4,8 @@
 ```
 from ArchicadDG import Rect
 ``` 
+### Links
+[Point](ArchicadDG_Point.md)
 
 ### Example
 [demo](../Scripts/Tests/dg_rect_test.py)
