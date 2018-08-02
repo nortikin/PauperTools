@@ -20,7 +20,7 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## PauperTools Modules
 
-* [Logger](Docs/Logger_Module.md)
+* [Logger](Docs/PauperTools_Logger_Module.md)
 
 ## Archicad Modules
 
