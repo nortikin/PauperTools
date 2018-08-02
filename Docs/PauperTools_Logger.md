@@ -10,19 +10,19 @@ import PauperTools.Logger as Logger
 
 ### Functions
 
-* **alert(msg)**
+* **alert(string msg)**
+* **None**
 * alert message from info window
 ```
-#msg:string
 Logger.alert(msg)
 ```
 
 
-* **write(msg)**
+* **write(string msg)**
+* **None**
 * print message to report window
 
 ```
-#msg:string
 Logger.write(msg)
 ```
 
