@@ -1,6 +1,6 @@
 ## 环境安装
 ### 方法一（推荐方法）
-* 下载Git（https://git-scm.com）
+* 下载Git（  https://git-scm.com  ）
 * 安装Git（勾选**Use Git and optional Unix tools from Windows Command Prompt**）
 * 打开终端输入```git --version```验证Git是否安装成功（按住Shift+鼠标右击可快速启动）
 * 在[Archicad Install Path]/Add-Ons目录下启动终端
