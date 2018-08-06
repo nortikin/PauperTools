@@ -36,7 +36,7 @@ class PyMain(object):
 
 ```
 
-### Functions
+### Class Functions
 
 * **constructor(ArchicadDG.Point pt1,ArchicadDG.Point pt2)**
 * **constructor(ArchicadDG.Point pt,short width,short height)**

@@ -33,7 +33,7 @@ class PyMain(object):
         pass
 
 ```
-### Functions
+### Static Functions
 
 * **alert(string msg)**
 * **None**

@@ -34,7 +34,7 @@ class PyMain(object):
 
 ```
 
-### Functions
+### Class Functions
 
 * **constructor(short x,short y)**
 * Class constructor.
