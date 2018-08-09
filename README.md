@@ -41,6 +41,7 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## 更新日志
 
+* 完成移植ArchicadDG模块下的界面、对话框等类--2018-8-9
 * 录制PauperTools插件安装与使用视频--2018-8-6
 * 移植ArchicadDG模块下的Rect类并补充相关文档--2018-8-2
 * 移植ArchicadDG模块下的Point类并补充相关文档--2018-8-2
