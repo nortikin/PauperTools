@@ -30,6 +30,32 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 * [Point](Docs/ArchicadDG_Point.md)
 * [Rect](Docs/ArchicadDG_Rect.md)
+* [Key.Special](Docs/ArchicadDG_Key_Special.md)
+* [Key.Modifier](Docs/ArchicadDG_Key_Modifier.md)
+* [Key.Code](Docs/ArchicadDG_Key_Code.md)
+* [Panel](Docs/ArchicadDG_Panel.md)
+* [Dialog.DialogType](Docs/ArchicadDG_DialogType.md)
+* [Dialog.GrowType](Docs/ArchicadDG_GrowType.md)
+* [Dialog.CloseType](Docs/ArchicadDG_CloseType.md)
+* [Dialog.MinimizeType](Docs/ArchicadDG_MinimizeType.md)
+* [Dialog.MaximizeType](Docs/ArchicadDG_MaximizeType.md)
+* [Dialog.CaptionType](Docs/ArchicadDG_CaptionType.md)
+* [Dialog.FrameType](Docs/ArchicadDG_FrameType.md)
+* [Dialog.SpecialFeatures](Docs/ArchicadDG_SpecialFeatures.md)
+* [Dialog.FixPoint](Docs/ArchicadDG_FixPoint.md)
+* [Dialog.GrowBoxForm](Docs/ArchicadDG_GrowBoxForm.md)
+* [Dialog](Docs/ArchicadDG_Dialog.md)
+* [ModalDialog.ModalResponse](Docs/ArchicadDG_ModalResponse.md)
+* [ModalDialog](Docs/ArchicadDG_ModalDialog.md)
+* [ModelessBase.DialogStatus](Docs/ArchicadDG_DialogStatus.md)
+* [ModelessBase](Docs/ArchicadDG_ModelessBase.md)
+* [Palette](Docs/ArchicadDG_Palette.md)
+* [ModelessDialog.DialogState](Docs/ArchicadDG_DialogState.md)
+* [ModelessDialog.DockState](Docs/ArchicadDG_DockState.md)
+* [ModelessDialog](Docs/ArchicadDG_ModelessDialog.md)
+* [ItemBase](Docs/ArchicadDG_ItemBase.md)
+* [Item](Docs/ArchicadDG_Item.md)
+
 
 ## Internal Modules
 
@@ -41,7 +67,8 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## 更新日志
 
-* 完成移植ArchicadDG模块下的界面、对话框等类--2018-8-9
+* 补充完成ArchicadDG模块下的界面、对话框等文档--2018-8-9
+* 移植完成ArchicadDG模块下的界面、对话框等接口--2018-8-9
 * 录制PauperTools插件安装与使用视频--2018-8-6
 * 移植ArchicadDG模块下的Rect类并补充相关文档--2018-8-2
 * 移植ArchicadDG模块下的Point类并补充相关文档--2018-8-2
