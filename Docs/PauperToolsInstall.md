@@ -1,19 +1,19 @@
-## 环境安装
-### 方法一（推荐方法）
-* 下载Git（  https://git-scm.com  ）
-* 安装Git（勾选**Use Git and optional Unix tools from Windows Command Prompt**）
-* 打开终端输入```git --version```验证Git是否安装成功（按住Shift+鼠标右击可快速启动）
-* 在[Archicad Install Path]/Add-Ons目录下启动终端
-* 下载项目（```git clone https://github.com/iotong/PauperTools.git```）
-* 安装Python运行环境（./Exe/python-2.7.15.amd64.exe）
-* 安装时在Customize Python选项卡中设置**Add python.exe to Path**为**Will be installed on local hard drive**
-* 打开终端输入```python --version```验证Python是否安装成功
-* 打开终端输入```pip --version```验证Python是否安装成功
-* 安装完成
-### 方法二
-* 下载项目压缩包在[Archicad Install Path]/Add-Ons目录下进行解压
-* 安装Python运行环境（./Exe/python-2.7.15.amd64.exe）
-* 安装时在Customize Python选项卡中设置**Add python.exe to Path**为**Will be installed on local hard drive**
-* 打开终端输入```python --version```验证Python是否安装成功
-* 打开终端输入```pip --version```验证Python是否安装成功
-* 安装完成
+## Plugin Install
+### Method One（Recommended method）
+* Download Git（  https://git-scm.com  ）
+* Install Git（Check **Use Git and optional Unix tools from Windows Command Prompt** ）
+* Run ```git --version``` in Terminal. Verify that Git is installed successfully（Shift+MouseRight）
+* Start the terminal in the **[Archicad Install Path]/Add-Ons** directory
+* Clone Project ( ```git clone https://github.com/iotong/PauperTools.git``` )
+* Install the Python runtime environment（./Exe/python-2.7.15.amd64.exe）
+* Set **Add python.exe to Path** to **Will be installed on local hard drive** in the Customize Python tab during installation.
+* Run ```python --version``` in Terminal. Verify that Python is installed successfully
+* Run ```pip --version``` in Terminal. Verify that Pip is installed successfully
+* Installation completed
+### Method Two
+* Download the project archive and decompress it in "[Archicad Install Path] / Add-Ons" directory
+* Install the Python runtime environment（./Exe/python-2.7.15.amd64.exe）
+* Set **Add python.exe to Path** to **Will be installed on local hard drive** in the Customize Python tab during installation.
+* Run ```python --version``` in Terminal. Verify that Python is installed successfully
+* Run ```pip --version``` in Terminal. Verify that Pip is installed successfully
+* Installation completed

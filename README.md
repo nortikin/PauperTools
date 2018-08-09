@@ -1,22 +1,21 @@
 # PauperTools for Archicad
 
-## 关于
+## About
 
-PauperTools 是专门为Archicad建筑设计软件开发的、可让开发者使用
-python开发语言对Archicad建筑设计软件进行二次开发的桥接式插件。让广大Archicad的开发者或使用者从此逃离C/C++的深渊。
+PauperTools is a bridge-based plug-in developed specifically for Archicad architectural design software that allows developers to re-engineer Archicad architectural design software using the Python development language. Let the developers or users of Archicad escape from the abyss of C/C++.
 
-## 商业授权
+## License
 
-* 本插件为免费插件，非授权用户可自由使用，但不能以 **任何手段** 或 **任何方式** 用于任何商业用途，否则将追究其侵权责任。
-* PauperTools插件所有权归 **贵州数智联云科技有限公司** 与 插件作者 **Lancer[QQ:502554248]** 共同所有。
+* This plug-in is a free plug-in that is freely usable by unauthorized users, but cannot be used for any commercial purpose by **any means** or **in any way**, or it will be held liable for infringement.
+* The PauperTools plugin is copyrighted by **Guizhou Wisdom Data Cloud Technology Co., Ltd.** and the plugin author **Lancer [QQ: 502554248]**.
 
-## 环境搭建
+## Install
 
-* 安装Archicad （插件仅支持 **Archicad 21** 版本）
+* Install Archicad （Plug-in only supports version **Archicad 21**）
 
-* [插件安装](Docs/PauperToolsInstall.md) 
+* [Plugin Install](Docs/PauperToolsInstall.md) 
 
-* [插件使用](Docs/PauperToolsUsing.md)
+* [Plugin Using](Docs/PauperToolsUsing.md)
 
 ## PauperTools Modules
 
@@ -24,7 +23,7 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## Archicad Modules
 
-* 等待完善
+* Waiting for improvement
 
 ## ArchicadDG Modules
 
@@ -63,10 +62,11 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 
 ## Third Part Modules
 
-* 等待完善
+* Waiting for improvement
 
-## 更新日志
+## Change Logs
 
+* Modify the project language to English--2018-8-9
 * 补充完成ArchicadDG模块下的界面、对话框等文档--2018-8-9
 * 移植完成ArchicadDG模块下的界面、对话框等接口--2018-8-9
 * 录制PauperTools插件安装与使用视频--2018-8-6
@@ -83,9 +83,9 @@ python开发语言对Archicad建筑设计软件进行二次开发的桥接式插
 * 解决Python模块加载路径问题，解决输出重定向问题--2018-7-27
 * 下载简单配置环境即可使用--2018-7-27
 
-## 支持项目
+## Donation project
 
-[捐赠者名单](Donation/Donor.md) 捐赠时请注明 **Archicad** 以便于统计经费
+[Donor list](Donation/Donor.md) Please indicate **Archicad** when you donate, in order to facilitate statistical expenses.
 
 **WeChat Pay**
 
