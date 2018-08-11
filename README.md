@@ -13,7 +13,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 * Install Archicad （Plug-in only supports version **Archicad 21**）
 
-* [Install Plugin](Docs/PauperToolsInstall.md) 
+* [Install Plugin](Docs/PauperToolsInstall.md) (**Video**)
 
 * [Using Plugin](Docs/PauperToolsUsing.md)
 

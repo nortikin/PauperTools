@@ -1,4 +1,9 @@
-## Plugin Install
+## Install Plugin 
+
+### Videos
+* Youttube: https://www.youtube.com/watch?v=a9j51calY_M
+* XiGua: https://www.365yg.com/i6587947503209939470#mid=1586018998732814
+
 ### Method One（Recommended method）
 * Download Git（  https://git-scm.com  ）
 * Install Git（Check **Use Git and optional Unix tools from Windows Command Prompt** ）
