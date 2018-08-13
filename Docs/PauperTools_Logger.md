@@ -1,36 +1,39 @@
 ## Logger module
 
+### Videos
+* Youttube: https://youtu.be/cAELRQT4ZoM
+* XiGua: https://url.cn/5HCujoP
+
 ### Import
 ```
 import PauperTools.Logger as Logger
 ``` 
 
-### Example
-[demo](../Scripts/Tests/logger_test.py)
-
 ### Testing
 ```
-import Tests.logger_test as log_test
+from PauperTools import Logger
 
 class PyMain(object):
     def __init__(self):
-        print "PyMain.__init__" #must be print this message
+        Logger.alert('PT.__init__')
+        print 'LPT.__init__'
         pass
 
     def RegisterInterface(self):
-        print 'PyMain.RegisterInterface' #must be print this message
+        Logger.alert('PT.RegisterInterface')
+        print 'LPT.RegisterInterface' #in reload mode;this function not called
         pass
     
     def Initialize(self,reload):
-        # logger module testing
-        log_test.alert_test("alert_test message")
-
-        print 'PyMain.Initialize' #must be print this message
+        Logger.alert('PT.Initialize mode:'+str(reload))
+        print 'LPT.Initialize'
         pass
 
     def FreeData(self):
-        print 'PyMain.FreeData' #must be print this message
+        Logger.alert('PT.FreeData')
+        print 'LPT.FreeData'
         pass
+
 
 ```
 ### Static Functions

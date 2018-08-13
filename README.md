@@ -19,7 +19,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## PauperTools Modules
 
-* [Logger](Docs/PauperTools_Logger.md)
+* [Logger](Docs/PauperTools_Logger.md) ![Video][video_url] ![Example][example_url]
 
 ## Archicad Modules
 
@@ -66,6 +66,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Change Logs
 
+* Addition helloworld example video--2018-8-13
 * Modify the project language to English--2018-8-9
 * 补充完成ArchicadDG模块下的界面、对话框等文档--2018-8-9
 * 移植完成ArchicadDG模块下的界面、对话框等接口--2018-8-9
@@ -94,4 +95,5 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 
 
-[video_url]:https://img.shields.io/badge/Video-Ok-red.svg
+[video_url]:https://img.shields.io/badge/Video-OK-brightgreen.svg
+[example_url]:https://img.shields.io/badge/Example-OK-brightgreen.svg
