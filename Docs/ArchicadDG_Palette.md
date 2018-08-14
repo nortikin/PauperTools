@@ -4,6 +4,11 @@
 
 <img src="../Imgs/form_inheritance_diagram.png" width="384px" height="384px" />
 
+### Videos
+* Youttube: https://youtu.be/pPnnZp-fLGY
+* XiGua: https://url.cn/54P5PTU
+
+
 ### Parent Class
 [ModelessBase](ArchicadDG_ModelessBase.md)
 
@@ -11,6 +16,29 @@
 ```
 from ArchicadDG import Palette
 ``` 
+
+### Example
+[demo](../Scripts/Tests/dg_palette_test.py)
+
+### Testing
+```
+from Tests.dg_palette_test import *
+
+class PyMain(object):
+    def __init__(self):
+        self.pal=FormPalette()
+        pass
+
+    def RegisterInterface(self):
+        pass
+    
+    def Initialize(self,reload):
+        pass
+
+    def FreeData(self):
+        self.pal=None # free FormPalette
+        pass
+```
 
 ### Class Functions
 

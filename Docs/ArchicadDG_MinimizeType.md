@@ -8,7 +8,7 @@ from ArchicadDG import Dialog
 ## Example
 ```
 from ArchicadDG import *
-mt1=Dialog.NoMinimize
+mt1=Dialog.MinimizeType.NoMinimize
 mt2=Dialog.MinimizeType.Minimize
 ```
 

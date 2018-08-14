@@ -48,7 +48,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * [ModalDialog](Docs/ArchicadDG_ModalDialog.md)
 * [ModelessBase.DialogStatus](Docs/ArchicadDG_DialogStatus.md)
 * [ModelessBase](Docs/ArchicadDG_ModelessBase.md)
-* [Palette](Docs/ArchicadDG_Palette.md)
+* [Palette](Docs/ArchicadDG_Palette.md) ![Video][video_url] ![Example][example_url]
 * [ModelessDialog.DialogState](Docs/ArchicadDG_DialogState.md)
 * [ModelessDialog.DockState](Docs/ArchicadDG_DockState.md)
 * [ModelessDialog](Docs/ArchicadDG_ModelessDialog.md)
@@ -66,6 +66,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Change Logs
 
+* Addition Palette example video--2018-8-14
 * Addition helloworld example video--2018-8-13
 * Modify the project language to English--2018-8-9
 * 补充完成ArchicadDG模块下的界面、对话框等文档--2018-8-9
@@ -95,6 +96,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 **AliPay**
 
 <img src="Imgs/alipay_donation.jpg" width="384px" height="384px" />
+
 
 
 [video_url]:https://img.shields.io/badge/Video-OK-brightgreen.svg
