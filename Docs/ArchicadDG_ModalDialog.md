@@ -1,5 +1,9 @@
 ## ModalDialog Class
 
+### Form Inheritance Diagram
+
+<img src="../Imgs/form_inheritance_diagram.png" width="384px" height="384px" />
+
 ### Parent Class
 [Dialog](ArchicadDG_Dialog.md)
 

@@ -92,7 +92,9 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 <img src="Imgs/wechat_donation.jpg" width="384px" height="384px" />
 
+**AliPay**
 
+<img src="Imgs/alipay_donation.jpg" width="384px" height="384px" />
 
 
 [video_url]:https://img.shields.io/badge/Video-OK-brightgreen.svg
