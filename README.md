@@ -17,7 +17,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 * [Using Plugin](Docs/PauperToolsUsing.md)
 
-* [Update Plugin](Docs/PauperToolsUpdate.md)
+* [Update Plugin](Docs/PauperToolsUpdate.md) ![Video][video_url]
 
 ## PauperTools Modules
 
