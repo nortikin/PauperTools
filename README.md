@@ -69,6 +69,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Change Logs
 
+* Addition **PanelObserver** example video--2018-8-16
 * Addition **PanelObserver** docs--2018-8-16
 * Addition update plugin video--2018-8-15
 * Addition Palette example video--2018-8-14

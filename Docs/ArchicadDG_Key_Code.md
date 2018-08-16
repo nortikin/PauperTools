@@ -12,7 +12,7 @@ from ArchicadDG.Key import Code
 * Class constructor.
 ```
 cd1=Code(ArchicadDG.Key.F1)
-cd2=Point('e')
+cd2=Code('e')
 ```
 
 * **operator!=**
