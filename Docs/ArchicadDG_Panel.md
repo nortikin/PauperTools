@@ -14,12 +14,6 @@ from ArchicadDG import Panel
 
 ### Class Functions
 
-* **constructor()**
-* Class constructor.
-```
-
-```
-
 * **IsValid()**
 * **Boolean**
 * Checks the valid status of the panel.

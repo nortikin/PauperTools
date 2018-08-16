@@ -18,18 +18,6 @@ from ArchicadDG import Dialog
 
 ### Class Functions
 
-* **constructor([Dialog.DialogType](ArchicadDG_DialogType.md) dialType,[Rect](ArchicadDG_Rect.md) rect,[Dialog.GrowType](ArchicadDG_GrowType.md) growType,[Dialog.CloseType](ArchicadDG_CloseType.md) closeType,[Dialog.MinimizeType](ArchicadDG_MinimizeType.md) minimizeType,[Dialog.MaximizeType](ArchicadDG_MaximizeType.md) maximizeType,[Dialog.CaptionType](ArchicadDG_CaptionType.md) captionType,[Dialog.FrameType](ArchicadDG_FrameType.md) frameType,[Dialog.SpecialFeatures](ArchicadDG_SpecialFeatures.md) specialFeatures)**
-* **constructor([Dialog.DialogType](ArchicadDG_DialogType.md) dialType,[Rect](ArchicadDG_Rect.md) rect,[Dialog.GrowType](ArchicadDG_GrowType.md) growType,[Dialog.CloseType](ArchicadDG_CloseType.md) closeType,[Dialog.MinimizeType](ArchicadDG_MinimizeType.md) minimizeType,[Dialog.MaximizeType](ArchicadDG_MaximizeType.md) maximizeType,[Dialog.CaptionType](ArchicadDG_CaptionType.md) captionType,[Dialog.FrameType](ArchicadDG_FrameType.md) frameType)**
-* **constructor([Dialog.DialogType](ArchicadDG_DialogType.md) dialType,[Rect](ArchicadDG_Rect.md) rect,[Dialog.GrowType](ArchicadDG_GrowType.md) growType,[Dialog.CloseType](ArchicadDG_CloseType.md) closeType,[Dialog.MinimizeType](ArchicadDG_MinimizeType.md) minimizeType,[Dialog.MaximizeType](ArchicadDG_MaximizeType.md) maximizeType,[Dialog.CaptionType](ArchicadDG_CaptionType.md) captionType)**
-* **constructor([Dialog.DialogType](ArchicadDG_DialogType.md) dialType,[Rect](ArchicadDG_Rect.md) rect,[Dialog.GrowType](ArchicadDG_GrowType.md) growType,[Dialog.CloseType](ArchicadDG_CloseType.md) closeType,[Dialog.MinimizeType](ArchicadDG_MinimizeType.md) minimizeType,[Dialog.MaximizeType](ArchicadDG_MaximizeType.md) maximizeType)**
-* **constructor([Dialog.DialogType](ArchicadDG_DialogType.md) dialType,[Rect](ArchicadDG_Rect.md) rect,[Dialog.GrowType](ArchicadDG_GrowType.md) growType,[Dialog.CloseType](ArchicadDG_CloseType.md) closeType,[Dialog.MinimizeType](ArchicadDG_MinimizeType.md) minimizeType)**
-* **constructor([Dialog.DialogType](ArchicadDG_DialogType.md) dialType,[Rect](ArchicadDG_Rect.md) rect,[Dialog.GrowType](ArchicadDG_GrowType.md) growType,[Dialog.CloseType](ArchicadDG_CloseType.md) closeType)**
-* **constructor([Dialog.DialogType](ArchicadDG_DialogType.md) dialType,[Rect](ArchicadDG_Rect.md) rect,[Dialog.GrowType](ArchicadDG_GrowType.md) growType)**
-* **constructor([Dialog.DialogType](ArchicadDG_DialogType.md) dialType,[Rect](ArchicadDG_Rect.md) rect)**
-* Class constructor.
-```
-```
-
 * **GetDialogType()**
 * **[Dialog.DialogType](ArchicadDG_DialogType.md)**
 * Retrieves the type of the dialog.
