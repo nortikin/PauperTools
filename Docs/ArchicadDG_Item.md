@@ -1,7 +1,10 @@
 ## Item Class
 
 ### Parent Class
-[ItemBase](ArchicadDG_ItemBase.md)
+* [ItemBase](ArchicadDG_ItemBase.md)
+
+### Children Class
+* [EditControl](ArchicadDG_EditControl.md)
 
 ### Import
 ```

@@ -1,7 +1,11 @@
 ## ItemBase Class
 
 ### Children Class
-[Item](ArchicadDG_Item.md)
+* [Item](ArchicadDG_Item.md)
+* [FocusableProperty](ArchicadDG_FocusableProperty.md)
+* [ItemFontProperty](ArchicadDG_ItemFontProperty.md)
+* [ItemTextProperty](ArchicadDG_ItemTextProperty.md)
+* [ItemVariousProperty](ArchicadDG_ItemVariousProperty.md)
 
 ### Import
 ```
