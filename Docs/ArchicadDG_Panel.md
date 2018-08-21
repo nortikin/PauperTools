@@ -5,7 +5,7 @@
 <img src="../Imgs/form_inheritance_diagram.png" width="384px" height="384px" />
 
 ### Children Class
-[Dialog](ArchicadDG_Dialog.md)
+* [Dialog](ArchicadDG_Dialog.md)
 
 ### Import
 ```

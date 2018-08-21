@@ -5,7 +5,7 @@
 <img src="../Imgs/form_inheritance_diagram.png" width="384px" height="384px" />
 
 ### Parent Class
-[ModelessBase](ArchicadDG_ModelessBase.md)
+* [ModelessBase](ArchicadDG_ModelessBase.md)
 
 ### Import
 ```

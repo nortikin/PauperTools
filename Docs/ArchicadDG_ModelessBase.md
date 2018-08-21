@@ -5,11 +5,11 @@
 <img src="../Imgs/form_inheritance_diagram.png" width="384px" height="384px" />
 
 ### Parent Class
-[Dialog](ArchicadDG_Dialog.md)
+* [Dialog](ArchicadDG_Dialog.md)
 
 ### Children Class
-[Palette](ArchicadDG_Palette.md)
-[ModelessDialog](ArchicadDG_ModelessDialog.md)
+* [Palette](ArchicadDG_Palette.md)
+* [ModelessDialog](ArchicadDG_ModelessDialog.md)
 
 ### Import
 ```

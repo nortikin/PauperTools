@@ -10,7 +10,7 @@
 
 
 ### Parent Class
-[ModelessBase](ArchicadDG_ModelessBase.md)
+* [ModelessBase](ArchicadDG_ModelessBase.md)
 
 ### Import
 ```

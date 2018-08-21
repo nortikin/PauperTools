@@ -31,6 +31,10 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 * [Point](Docs/ArchicadDG_Point.md) ![Example][example_url]
 * [Rect](Docs/ArchicadDG_Rect.md) ![Example][example_url]
+* [CharRange](Docs/ArchicadDG_CharRange.md)
+* [Font.Size](Docs/ArchicadDG_Font_Size.md)
+* [Font.Style](Docs/ArchicadDG_Font_Style.md)
+* [EOL.Type](Docs/ArchicadDG_EOL_Type.md)
 * [Key.Special](Docs/ArchicadDG_Key_Special.md)
 * [Key.Modifier](Docs/ArchicadDG_Key_Modifier.md)
 * [Key.Code](Docs/ArchicadDG_Key_Code.md)
@@ -56,7 +60,40 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * [ModelessDialog.DockState](Docs/ArchicadDG_DockState.md)
 * [ModelessDialog](Docs/ArchicadDG_ModelessDialog.md)
 * [ItemBase](Docs/ArchicadDG_ItemBase.md)
+* [ItemFontProperty](Docs/ArchicadDG_ItemFontProperty.md)
+* [ItemVariousProperty](Docs/ArchicadDG_ItemVariousProperty.md)
+* [ItemTextProperty](Docs/ArchicadDG_ItemTextProperty.md)
+* [ItemTextLengthLimitProperty](Docs/ArchicadDG_ItemTextLengthLimitProperty.md)
+* [FocusableProperty](Docs/ArchicadDG_FocusableProperty.md)
 * [Item](Docs/ArchicadDG_Item.md)
+* [ItemObserver](Docs/ArchicadDG_Item_Observer.md)
+* [EditControl](Docs/EditControl/ArchicadDG_EditControl.md)
+* [EditControl.FrameType](Docs/EditControl/ArchicadDG_FrameType.md)
+* [EditControl.UpdateType](Docs/EditControl/ArchicadDG_UpdateType.md)
+* [EditControl.ReadOnlyType](Docs/EditControl/ArchicadDG_ReadOnlyType.md)
+* [EditControl.AbsRelType](Docs/EditControl/ArchicadDG_AbsRelType.md)
+* [PosIntEdit](Docs/EditControl/ArchicadDG_PosIntEdit.md)
+* [PosIntEditObserver](Docs/EditControl/ArchicadDG_PosIntEdit_Observer.md)
+* [IntEdit](Docs/EditControl/ArchicadDG_IntEdit.md)
+* [IntEditObserver](Docs/EditControl/ArchicadDG_IntEdit_Observer.md)
+* [RealEdit](Docs/EditControl/ArchicadDG_RealEdit.md)
+* [RealEditObserver](Docs/EditControl/ArchicadDG_RealEdit_Observer.md)
+* [LengthEdit.ChangeFontType](Docs/EditControl/ArchicadDG_ChangeFontType.md)
+* [LengthEdit](Docs/EditControl/ArchicadDG_LengthEdit.md)
+* [AngleEdit](Docs/EditControl/ArchicadDG_AngleEdit.md)
+* [PolarAngleEdit](Docs/EditControl/ArchicadDG_PolarAngleEdit.md)
+* [MMPointEdit](Docs/EditControl/ArchicadDG_MMPointEdit.md)
+* [TextEditBase](Docs/EditControl/ArchicadDG_TextEditBase.md)
+* [TextEditBaseObserver](Docs/EditControl/ArchicadDG_TextEditBase_Observer.md)
+* [TextEdit](Docs/EditControl/ArchicadDG_TextEdit.md)
+* [PasswordEdit](Docs/EditControl/ArchicadDG_PasswordEdit.md)
+* [ShortcutEdit](Docs/EditControl/ArchicadDG_ShortcutEdit.md)
+* [ShortcutEditObserver](Docs/EditControl/ArchicadDG_ShortcutEdit_Observer.md)
+* [MultiLineEdit.ScrollType](Docs/EditControl/ArchicadDG_ScrollType.md)
+* [MultiLineEdit](Docs/EditControl/ArchicadDG_MultiLineEdit.md)
+* [EditDragSourceObserver](Docs/EditControl/ArchicadDG_EditDragSource_Observer.md)
+* [EditDropTargetObserver](Docs/EditControl/ArchicadDG_EditDropTarget_Observer.md)
+
 
 
 ## Internal Modules
@@ -69,6 +106,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Change Logs
 
+* Complete the **EditBox** document -- 2018-8-21
 * Complete the bridging of the **EditBox** control--2018-8-20
 * Addition **PanelObserver** example video--2018-8-16
 * Addition **PanelObserver** docs--2018-8-16
