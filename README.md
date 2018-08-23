@@ -65,6 +65,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * [ItemTextProperty](Docs/ArchicadDG_ItemTextProperty.md)
 * [ItemTextLengthLimitProperty](Docs/ArchicadDG_ItemTextLengthLimitProperty.md)
 * [FocusableProperty](Docs/ArchicadDG_FocusableProperty.md)
+* [ItemIconProperty](Docs/ArchicadDG_ItemIconProperty.md)
 * [Item](Docs/ArchicadDG_Item.md)
 * [ItemObserver](Docs/ArchicadDG_Item_Observer.md)
 * [EditControl](Docs/EditControl/ArchicadDG_EditControl.md)
@@ -93,8 +94,22 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * [MultiLineEdit](Docs/EditControl/ArchicadDG_MultiLineEdit.md)
 * [EditDragSourceObserver](Docs/EditControl/ArchicadDG_EditDragSource_Observer.md)
 * [EditDropTargetObserver](Docs/EditControl/ArchicadDG_EditDropTarget_Observer.md)
-
-
+* [ButtonItem](Docs/Button/ArchicadDG_ButtonItem.md)
+* [ButtonItemObserver](Docs/Button/ArchicadDG_ButtonItem_Observer.md)
+* [Button.ButtonType](Docs/Button/ArchicadDG_Button_ButtonType.md)
+* [Button.FrameType](Docs/Button/ArchicadDG_Button_FrameType.md)
+* [Button.Alignment](Docs/Button/ArchicadDG_Button_Alignment.md)
+* [Button](Docs/Button/ArchicadDG_Button.md)
+* [IconButton.ButtonForm](Docs/Button/ArchicadDG_IconButton_ButtonForm.md)
+* [IconButton.FrameType](Docs/Button/ArchicadDG_IconButton_FrameType.md)
+* [IconButton](Docs/Button/ArchicadDG_IconButton.md)
+* [SplitButtonBase.ButtonForm](Docs/Button/ArchicadDG_SplitButtonBase_ButtonForm.md)
+* [SplitButtonBase.Alignment](Docs/Button/ArchicadDG_SplitButtonBase_Alignment.md)
+* [SplitButtonBase](Docs/Button/ArchicadDG_SplitButtonBase.md)
+* [SplitButton](Docs/Button/ArchicadDG_SplitButton.md)
+* [SplitButtonObserver](Docs/Button/ArchicadDG_SplitButton_Observer.md)
+* [CustomSplitButton](Docs/Button/ArchicadDG_CustomSplitButton.md)
+* [CustomSplitButtonObserver](Docs/Button/ArchicadDG_CustomSplitButton_Observer.md)
 
 ## Internal Modules
 
@@ -106,6 +121,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Change Logs
 
+* Complete the **Button** -- 2018-8-23
 * Complete the **EditBox** document -- 2018-8-21
 * Complete the bridging of the **EditBox** control--2018-8-20
 * Addition **PanelObserver** example video--2018-8-16

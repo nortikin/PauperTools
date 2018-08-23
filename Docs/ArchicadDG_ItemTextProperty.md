@@ -5,7 +5,8 @@
 
 ### Children Class
 * [TextEditBase](EditControl/ArchicadDG_TextEditBase.md)
-
+* [Button](Button/ArchicadDG_Button.md)
+* [SplitButtonBase](Button/ArchicadDG_SplitButtonBase.md)
 
 ### Import
 ```

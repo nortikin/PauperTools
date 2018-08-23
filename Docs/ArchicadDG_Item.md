@@ -4,7 +4,8 @@
 * [ItemBase](ArchicadDG_ItemBase.md)
 
 ### Children Class
-* [EditControl](ArchicadDG_EditControl.md)
+* [EditControl](EditControl/ArchicadDG_EditControl.md)
+* [ButtonItem](Button/ArchicadDG_ButtonItem.md)
 
 ### Import
 ```

@@ -5,6 +5,8 @@
 
 ### Children Class
 * [EditControl](EditControl/ArchicadDG_EditControl.md)
+* [Button](Button/ArchicadDG_Button.md)
+* [SplitButtonBase](Button/ArchicadDG_SplitButtonBase.md)
 
 ### Import
 ```

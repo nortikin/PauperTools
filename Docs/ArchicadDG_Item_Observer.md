@@ -13,6 +13,7 @@
 * [RealEditObserver](EditControl/ArchicadDG_RealEdit_Observer.md)
 * [PosIntEditObserver](EditControl/ArchicadDG_PosIntEdit_Observer.md)
 * [IntEditObserver](EditControl/ArchicadDG_IntEdit_Observer.md)
+* [ButtonItemObserver](Button/ArchicadDG_ButtonItem_Observer.md)
 
 ### Import
 ```
@@ -37,7 +38,7 @@ from ArchicadDG import ItemObserver
 * **e.Processed[Boolean]**:if the application has processed this event, this value should be set to true, to avoid the default event processing. By default the value of processed is false.
 * Event handler for the item change requested notification.
 
-#### Changed([Item](ArchicadDG_Item.md) item,ItemChangeEvent e)
+#### Changed([Item](ArchicadDG_Item.md) item,ItemEvent e)
 * Event handler for the item changed notification.
 
 #### CharEntered([Item](ArchicadDG_Item.md) item,ItemCharEnterEvent e)
