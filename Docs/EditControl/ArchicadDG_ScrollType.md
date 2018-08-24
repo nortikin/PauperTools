@@ -8,8 +8,8 @@ from ArchicadDG import MultiLineEdit
 ## Example
 ```
 from ArchicadDG import *
-ft1=MultiLineEdit.Absolute
-ft2=MultiLineEdit.ScrollType.Relative
+ft1=MultiLineEdit.NoScroll
+ft2=MultiLineEdit.ScrollType.HScroll
 ```
 
 ### Values

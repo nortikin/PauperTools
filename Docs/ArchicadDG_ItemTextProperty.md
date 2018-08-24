@@ -15,22 +15,17 @@ from ArchicadDG import ItemTextProperty
 
 ### Class Functions
 
-* **SetVariousState(Boolean isVarious)**
+* **SetText(string text)**
 * **None**
 * 
 -----
 
-* **GetVariousState()**
-* **Boolean**
-* 
------
-
-* **SetVariousText(string text)**
+* **CatText(string text)**
 * **None**
 * 
 -----
 
-* **GetVariousText()**
+* **GetText()**
 * **string**
 * 
 -----
