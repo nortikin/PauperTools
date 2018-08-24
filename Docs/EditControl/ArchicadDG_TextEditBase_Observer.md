@@ -30,6 +30,6 @@ from ArchicadDG import TextEditBaseObserver
 
 ### Class Events
 
-#### TextEditChanged([TextEditBase](ArchicadDG_TextEditBase.md) textEditBase,ItemChangeEvent e)
+#### TextEditChanged([TextEditBase](ArchicadDG_TextEditBase.md) textEditBase,ItemEvent e)
 * Event handler for the text edit changed notification.
 
