@@ -1,9 +1,5 @@
 ## EditDragSourceObserver Class
 
-### Videos
-* Youttube: None
-* XiGua: None
-
 ### Parent Class
 * Waiting for improvement
 
@@ -14,12 +10,6 @@
 * [IntEditObserver](ArchicadDG_IntEdit_Observer.md)
 
 ### Import
-* Waiting for improvement
-
-### Example
-* Waiting for improvement
-
-### Testing
 * Waiting for improvement
 
 ### Class Functions

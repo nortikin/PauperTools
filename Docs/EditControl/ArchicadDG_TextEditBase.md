@@ -4,10 +4,6 @@
 
 <img src="../../Imgs/edit_control_inheritance_diagram.png" />
 
-### Videos
-* Youttube: None
-* XiGua: None
-
 ### Parent Class
 * [EditControl](ArchicadDG_EditControl.md)
 * [ItemTextProperty](../ArchicadDG_ItemTextProperty.md)
@@ -23,11 +19,6 @@
 from ArchicadDG import TextEditBase
 ``` 
 
-### Example
-* Waiting for improvement
-
-### Testing
-* Waiting for improvement
 
 ### Class Functions
 

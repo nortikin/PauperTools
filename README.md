@@ -73,25 +73,25 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * [EditControl.UpdateType](Docs/EditControl/ArchicadDG_UpdateType.md)
 * [EditControl.ReadOnlyType](Docs/EditControl/ArchicadDG_ReadOnlyType.md)
 * [EditControl.AbsRelType](Docs/EditControl/ArchicadDG_AbsRelType.md)
-* [PosIntEdit](Docs/EditControl/ArchicadDG_PosIntEdit.md)
-* [PosIntEditObserver](Docs/EditControl/ArchicadDG_PosIntEdit_Observer.md)
-* [IntEdit](Docs/EditControl/ArchicadDG_IntEdit.md)
-* [IntEditObserver](Docs/EditControl/ArchicadDG_IntEdit_Observer.md)
-* [RealEdit](Docs/EditControl/ArchicadDG_RealEdit.md)
-* [RealEditObserver](Docs/EditControl/ArchicadDG_RealEdit_Observer.md)
+* [PosIntEdit](Docs/EditControl/ArchicadDG_PosIntEdit.md) ![Video][video_url] ![Example][example_url]
+* [PosIntEditObserver](Docs/EditControl/ArchicadDG_PosIntEdit_Observer.md) ![Video][video_url] ![Example][example_url]
+* [IntEdit](Docs/EditControl/ArchicadDG_IntEdit.md) ![Video][video_url] ![Example][example_url]
+* [IntEditObserver](Docs/EditControl/ArchicadDG_IntEdit_Observer.md) ![Video][video_url] ![Example][example_url]
+* [RealEdit](Docs/EditControl/ArchicadDG_RealEdit.md) ![Video][video_url] ![Example][example_url]
+* [RealEditObserver](Docs/EditControl/ArchicadDG_RealEdit_Observer.md) ![Video][video_url] ![Example][example_url]
 * [LengthEdit.ChangeFontType](Docs/EditControl/ArchicadDG_ChangeFontType.md)
-* [LengthEdit](Docs/EditControl/ArchicadDG_LengthEdit.md)
-* [AngleEdit](Docs/EditControl/ArchicadDG_AngleEdit.md)
-* [PolarAngleEdit](Docs/EditControl/ArchicadDG_PolarAngleEdit.md)
-* [MMPointEdit](Docs/EditControl/ArchicadDG_MMPointEdit.md)
+* [LengthEdit](Docs/EditControl/ArchicadDG_LengthEdit.md) ![Video][video_url] ![Example][example_url]
+* [AngleEdit](Docs/EditControl/ArchicadDG_AngleEdit.md) ![Video][video_url] ![Example][example_url]
+* [PolarAngleEdit](Docs/EditControl/ArchicadDG_PolarAngleEdit.md) ![Video][video_url] ![Example][example_url]
+* [MMPointEdit](Docs/EditControl/ArchicadDG_MMPointEdit.md) ![Video][video_url] ![Example][example_url]
 * [TextEditBase](Docs/EditControl/ArchicadDG_TextEditBase.md)
-* [TextEditBaseObserver](Docs/EditControl/ArchicadDG_TextEditBase_Observer.md)
-* [TextEdit](Docs/EditControl/ArchicadDG_TextEdit.md)
-* [PasswordEdit](Docs/EditControl/ArchicadDG_PasswordEdit.md)
-* [ShortcutEdit](Docs/EditControl/ArchicadDG_ShortcutEdit.md)
-* [ShortcutEditObserver](Docs/EditControl/ArchicadDG_ShortcutEdit_Observer.md)
+* [TextEditBaseObserver](Docs/EditControl/ArchicadDG_TextEditBase_Observer.md) ![Video][video_url] ![Example][example_url]
+* [TextEdit](Docs/EditControl/ArchicadDG_TextEdit.md) ![Video][video_url] ![Example][example_url]
+* [PasswordEdit](Docs/EditControl/ArchicadDG_PasswordEdit.md) ![Video][video_url] ![Example][example_url]
+* [ShortcutEdit](Docs/EditControl/ArchicadDG_ShortcutEdit.md) ![Video][video_url] ![Example][example_url]
+* [ShortcutEditObserver](Docs/EditControl/ArchicadDG_ShortcutEdit_Observer.md) ![Video][video_url] ![Example][example_url]
 * [MultiLineEdit.ScrollType](Docs/EditControl/ArchicadDG_ScrollType.md)
-* [MultiLineEdit](Docs/EditControl/ArchicadDG_MultiLineEdit.md)
+* [MultiLineEdit](Docs/EditControl/ArchicadDG_MultiLineEdit.md) ![Video][video_url] ![Example][example_url]
 * [EditDragSourceObserver](Docs/EditControl/ArchicadDG_EditDragSource_Observer.md)
 * [EditDropTargetObserver](Docs/EditControl/ArchicadDG_EditDropTarget_Observer.md)
 * [ButtonItem](Docs/Button/ArchicadDG_ButtonItem.md)
@@ -121,10 +121,11 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Change Logs
 
+* Addition **EditControl** example video--2018-8-24
 * Fixed "Event chain trigger invalid" bugs--2018-8-24
 * Complete the **Button** -- 2018-8-23
-* Complete the **EditBox** document -- 2018-8-21
-* Complete the bridging of the **EditBox** control--2018-8-20
+* Complete the **EditControl** document -- 2018-8-21
+* Complete the bridging of the **EditControl** control--2018-8-20
 * Addition **PanelObserver** example video--2018-8-16
 * Addition **PanelObserver** docs--2018-8-16
 * Addition update plugin video--2018-8-15

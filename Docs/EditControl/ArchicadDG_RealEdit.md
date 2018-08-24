@@ -5,8 +5,7 @@
 <img src="../../Imgs/edit_control_inheritance_diagram.png" />
 
 ### Videos
-* Youttube: 
-* XiGua: 
+* Youttube: https://youtu.be/d6qyalsb0Vs
 
 ### Parent Class
 * [EditControl](ArchicadDG_EditControl.md)
@@ -24,10 +23,34 @@ from ArchicadDG import RealEdit
 ``` 
 
 ### Example
-* Waiting for improvement
+* [demo](../../Scripts/Tests/dg_edit_test.py)
 
 ### Testing
-* Waiting for improvement
+```
+import Tests.dg_edit_test as edit_test
+
+class PyMain(object):
+    def __init__(self):
+        print "PyMain.__init__" #must be print this message
+        pass
+
+    def RegisterInterface(self):
+        print 'PyMain.RegisterInterface' #must be print this message
+        pass
+    
+    def Initialize(self,reload):
+        #new Form
+        self.frm=edit_test.PaletteForm()
+        print 'PyMain.Initialize' #must be print this message
+        pass
+
+    def FreeData(self):
+        #free Form
+        self.frm=None
+        print 'PyMain.FreeData' #must be print this message
+        pass
+
+```
 
 ### Class Functions
 
