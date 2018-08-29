@@ -121,6 +121,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Change Logs
 
+* Addition **Button** example video--2018-8-29
 * Addition **EditControl** example video--2018-8-24
 * Fixed "Event chain trigger invalid" bugs--2018-8-24
 * Complete the **Button** -- 2018-8-23

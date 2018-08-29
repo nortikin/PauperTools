@@ -5,8 +5,7 @@
 <img src="../../Imgs/button_inheritance_diagram.png" />
 
 ### Videos
-* Youttube: 
-* XiGua: 
+* Youttube: https://youtu.be/I2uRGDRBfVM
 
 ### Parent Class
 * [ButtonItem](ArchicadDG_ButtonItem.md)
@@ -23,10 +22,32 @@ from ArchicadDG import Button
 ``` 
 
 ### Example
-* Waiting for improvement
+* [demo](../../Scripts/Tests/dg_button_test.py)
 
 ### Testing
-* Waiting for improvement
+```
+import Tests.dg_button_test as button_test
+
+class PyMain(object):
+    def __init__(self):
+        print "PyMain.__init__" #must be print this message
+        pass
+
+    def RegisterInterface(self):
+        print 'PyMain.RegisterInterface' #must be print this message
+        pass
+    
+    def Initialize(self,reload):
+        self.frm=button_test.FormPalette()
+        print 'PyMain.Initialize' #must be print this message
+        pass
+
+    def FreeData(self):
+        self.frm=None
+        print 'PyMain.FreeData' #must be print this message
+        pass
+
+```
 
 ### Class Functions
 
