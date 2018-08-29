@@ -1,8 +1,7 @@
 ## ButtonItemObserver Class
 
 ### Videos
-* Youttube: None
-* XiGua: None
+* Youttube: https://youtu.be/I2uRGDRBfVM
 
 ### Parent Class
 * [ItemObserver](../ArchicadDG_Item_Observer.md)
@@ -15,12 +14,6 @@
 ```
 from ArchicadDG import ButtonItemObserver
 ``` 
-
-### Example
-* Waiting for improvement
-
-### Testing
-* Waiting for improvement
 
 ### Class Functions
 

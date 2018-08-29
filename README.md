@@ -95,19 +95,19 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * [EditDragSourceObserver](Docs/EditControl/ArchicadDG_EditDragSource_Observer.md)
 * [EditDropTargetObserver](Docs/EditControl/ArchicadDG_EditDropTarget_Observer.md)
 * [ButtonItem](Docs/Button/ArchicadDG_ButtonItem.md)
-* [ButtonItemObserver](Docs/Button/ArchicadDG_ButtonItem_Observer.md)
+* [ButtonItemObserver](Docs/Button/ArchicadDG_ButtonItem_Observer.md) ![Video][video_url] ![Example][example_url]
 * [Button.ButtonType](Docs/Button/ArchicadDG_Button_ButtonType.md)
 * [Button.FrameType](Docs/Button/ArchicadDG_Button_FrameType.md)
 * [Button.Alignment](Docs/Button/ArchicadDG_Button_Alignment.md)
-* [Button](Docs/Button/ArchicadDG_Button.md)
+* [Button](Docs/Button/ArchicadDG_Button.md) ![Video][video_url] ![Example][example_url]
 * [IconButton.ButtonForm](Docs/Button/ArchicadDG_IconButton_ButtonForm.md)
 * [IconButton.FrameType](Docs/Button/ArchicadDG_IconButton_FrameType.md)
 * [IconButton](Docs/Button/ArchicadDG_IconButton.md)
 * [SplitButtonBase.ButtonForm](Docs/Button/ArchicadDG_SplitButtonBase_ButtonForm.md)
 * [SplitButtonBase.Alignment](Docs/Button/ArchicadDG_SplitButtonBase_Alignment.md)
 * [SplitButtonBase](Docs/Button/ArchicadDG_SplitButtonBase.md)
-* [SplitButton](Docs/Button/ArchicadDG_SplitButton.md)
-* [SplitButtonObserver](Docs/Button/ArchicadDG_SplitButton_Observer.md)
+* [SplitButton](Docs/Button/ArchicadDG_SplitButton.md) ![Video][video_url] ![Example][example_url]
+* [SplitButtonObserver](Docs/Button/ArchicadDG_SplitButton_Observer.md) ![Video][video_url] ![Example][example_url]
 * [CustomSplitButton](Docs/Button/ArchicadDG_CustomSplitButton.md)
 * [CustomSplitButtonObserver](Docs/Button/ArchicadDG_CustomSplitButton_Observer.md)
 

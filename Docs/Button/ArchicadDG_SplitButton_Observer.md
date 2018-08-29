@@ -1,8 +1,7 @@
 ## SplitButtonObserver Class
 
 ### Videos
-* Youttube: None
-* XiGua: None
+* Youttube: https://youtu.be/I2uRGDRBfVM
 
 ### Parent Class
 * [ButtonItemObserver](ArchicadDG_ButtonItem_Observer.md)
@@ -14,12 +13,6 @@
 ```
 from ArchicadDG import SplitButtonObserver
 ``` 
-
-### Example
-* Waiting for improvement
-
-### Testing
-* Waiting for improvement
 
 ### Class Functions
 
