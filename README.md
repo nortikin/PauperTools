@@ -9,6 +9,16 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * This plug-in is a free plug-in that is freely usable by unauthorized users, but cannot be used for any commercial purpose by **any means** or **in any way**, or it will be held liable for infringement.
 * The PauperTools plugin is copyrighted by **Guizhou Wisdom Data Cloud Technology Co., Ltd.** and the plugin author **Lancer [QQ: 502554248]**.
 
+## Contact
+* QQ Group:479634378
+* Author Messager
+
+<img src="Imgs/messager.JPG" width="256px" height="256px" />
+
+* Author Wechat
+
+<img src="Imgs/wechat.jpg" width="256px" height="340px" />
+
 ## Install
 
 * Install Archicad （Plug-in only supports version **Archicad 21**）
