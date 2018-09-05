@@ -37,89 +37,22 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 * Waiting for improvement
 
-## ArchicadDG Modules
+## ArchicadDG Namespace
 
-* [Point](Docs/ArchicadDG_Point.md) ![Example][example_url]
-* [Rect](Docs/ArchicadDG_Rect.md) ![Example][example_url]
-* [CharRange](Docs/ArchicadDG_CharRange.md)
-* [Font.Size](Docs/ArchicadDG_Font_Size.md)
-* [Font.Style](Docs/ArchicadDG_Font_Style.md)
-* [EOL.Type](Docs/ArchicadDG_EOL_Type.md)
-* [Key.Special](Docs/ArchicadDG_Key_Special.md)
-* [Key.Modifier](Docs/ArchicadDG_Key_Modifier.md)
-* [Key.Code](Docs/ArchicadDG_Key_Code.md)
-* [Panel](Docs/ArchicadDG_Panel.md)
-* [PanelObserver](Docs/ArchicadDG_Panel_Observer.md) ![Video][video_url] ![Example][example_url]
-* [Dialog.DialogType](Docs/ArchicadDG_DialogType.md)
-* [Dialog.GrowType](Docs/ArchicadDG_GrowType.md)
-* [Dialog.CloseType](Docs/ArchicadDG_CloseType.md)
-* [Dialog.MinimizeType](Docs/ArchicadDG_MinimizeType.md)
-* [Dialog.MaximizeType](Docs/ArchicadDG_MaximizeType.md)
-* [Dialog.CaptionType](Docs/ArchicadDG_CaptionType.md)
-* [Dialog.FrameType](Docs/ArchicadDG_FrameType.md)
-* [Dialog.SpecialFeatures](Docs/ArchicadDG_SpecialFeatures.md)
-* [Dialog.FixPoint](Docs/ArchicadDG_FixPoint.md)
-* [Dialog.GrowBoxForm](Docs/ArchicadDG_GrowBoxForm.md)
-* [Dialog](Docs/ArchicadDG_Dialog.md)
-* [ModalDialog.ModalResponse](Docs/ArchicadDG_ModalResponse.md)
-* [ModalDialog](Docs/ArchicadDG_ModalDialog.md)
-* [ModelessBase.DialogStatus](Docs/ArchicadDG_DialogStatus.md)
-* [ModelessBase](Docs/ArchicadDG_ModelessBase.md)
-* [Palette](Docs/ArchicadDG_Palette.md) ![Video][video_url] ![Example][example_url]
-* [ModelessDialog.DialogState](Docs/ArchicadDG_DialogState.md)
-* [ModelessDialog.DockState](Docs/ArchicadDG_DockState.md)
-* [ModelessDialog](Docs/ArchicadDG_ModelessDialog.md)
-* [ItemBase](Docs/ArchicadDG_ItemBase.md)
-* [ItemFontProperty](Docs/ArchicadDG_ItemFontProperty.md)
-* [ItemVariousProperty](Docs/ArchicadDG_ItemVariousProperty.md)
-* [ItemTextProperty](Docs/ArchicadDG_ItemTextProperty.md)
-* [ItemTextLengthLimitProperty](Docs/ArchicadDG_ItemTextLengthLimitProperty.md)
-* [FocusableProperty](Docs/ArchicadDG_FocusableProperty.md)
-* [ItemIconProperty](Docs/ArchicadDG_ItemIconProperty.md)
-* [Item](Docs/ArchicadDG_Item.md)
-* [ItemObserver](Docs/ArchicadDG_Item_Observer.md)
-* [EditControl](Docs/EditControl/ArchicadDG_EditControl.md)
-* [EditControl.FrameType](Docs/EditControl/ArchicadDG_FrameType.md)
-* [EditControl.UpdateType](Docs/EditControl/ArchicadDG_UpdateType.md)
-* [EditControl.ReadOnlyType](Docs/EditControl/ArchicadDG_ReadOnlyType.md)
-* [EditControl.AbsRelType](Docs/EditControl/ArchicadDG_AbsRelType.md)
-* [PosIntEdit](Docs/EditControl/ArchicadDG_PosIntEdit.md) ![Video][video_url] ![Example][example_url]
-* [PosIntEditObserver](Docs/EditControl/ArchicadDG_PosIntEdit_Observer.md) ![Video][video_url] ![Example][example_url]
-* [IntEdit](Docs/EditControl/ArchicadDG_IntEdit.md) ![Video][video_url] ![Example][example_url]
-* [IntEditObserver](Docs/EditControl/ArchicadDG_IntEdit_Observer.md) ![Video][video_url] ![Example][example_url]
-* [RealEdit](Docs/EditControl/ArchicadDG_RealEdit.md) ![Video][video_url] ![Example][example_url]
-* [RealEditObserver](Docs/EditControl/ArchicadDG_RealEdit_Observer.md) ![Video][video_url] ![Example][example_url]
-* [LengthEdit.ChangeFontType](Docs/EditControl/ArchicadDG_ChangeFontType.md)
-* [LengthEdit](Docs/EditControl/ArchicadDG_LengthEdit.md) ![Video][video_url] ![Example][example_url]
-* [AngleEdit](Docs/EditControl/ArchicadDG_AngleEdit.md) ![Video][video_url] ![Example][example_url]
-* [PolarAngleEdit](Docs/EditControl/ArchicadDG_PolarAngleEdit.md) ![Video][video_url] ![Example][example_url]
-* [MMPointEdit](Docs/EditControl/ArchicadDG_MMPointEdit.md) ![Video][video_url] ![Example][example_url]
-* [TextEditBase](Docs/EditControl/ArchicadDG_TextEditBase.md)
-* [TextEditBaseObserver](Docs/EditControl/ArchicadDG_TextEditBase_Observer.md) ![Video][video_url] ![Example][example_url]
-* [TextEdit](Docs/EditControl/ArchicadDG_TextEdit.md) ![Video][video_url] ![Example][example_url]
-* [PasswordEdit](Docs/EditControl/ArchicadDG_PasswordEdit.md) ![Video][video_url] ![Example][example_url]
-* [ShortcutEdit](Docs/EditControl/ArchicadDG_ShortcutEdit.md) ![Video][video_url] ![Example][example_url]
-* [ShortcutEditObserver](Docs/EditControl/ArchicadDG_ShortcutEdit_Observer.md) ![Video][video_url] ![Example][example_url]
-* [MultiLineEdit.ScrollType](Docs/EditControl/ArchicadDG_ScrollType.md)
-* [MultiLineEdit](Docs/EditControl/ArchicadDG_MultiLineEdit.md) ![Video][video_url] ![Example][example_url]
-* [EditDragSourceObserver](Docs/EditControl/ArchicadDG_EditDragSource_Observer.md)
-* [EditDropTargetObserver](Docs/EditControl/ArchicadDG_EditDropTarget_Observer.md)
-* [ButtonItem](Docs/Button/ArchicadDG_ButtonItem.md)
-* [ButtonItemObserver](Docs/Button/ArchicadDG_ButtonItem_Observer.md) ![Video][video_url] ![Example][example_url]
-* [Button.ButtonType](Docs/Button/ArchicadDG_Button_ButtonType.md)
-* [Button.FrameType](Docs/Button/ArchicadDG_Button_FrameType.md)
-* [Button.Alignment](Docs/Button/ArchicadDG_Button_Alignment.md)
-* [Button](Docs/Button/ArchicadDG_Button.md) ![Video][video_url] ![Example][example_url]
-* [IconButton.ButtonForm](Docs/Button/ArchicadDG_IconButton_ButtonForm.md)
-* [IconButton.FrameType](Docs/Button/ArchicadDG_IconButton_FrameType.md)
-* [IconButton](Docs/Button/ArchicadDG_IconButton.md)
-* [SplitButtonBase.ButtonForm](Docs/Button/ArchicadDG_SplitButtonBase_ButtonForm.md)
-* [SplitButtonBase.Alignment](Docs/Button/ArchicadDG_SplitButtonBase_Alignment.md)
-* [SplitButtonBase](Docs/Button/ArchicadDG_SplitButtonBase.md)
-* [SplitButton](Docs/Button/ArchicadDG_SplitButton.md) ![Video][video_url] ![Example][example_url]
-* [SplitButtonObserver](Docs/Button/ArchicadDG_SplitButton_Observer.md) ![Video][video_url] ![Example][example_url]
-* [CustomSplitButton](Docs/Button/ArchicadDG_CustomSplitButton.md)
-* [CustomSplitButtonObserver](Docs/Button/ArchicadDG_CustomSplitButton_Observer.md)
+* [Point](Docs/ArchicadDG/Point.md)
+* [Rect](Docs/ArchicadDG/Rect.md)
+* [ItemBase](Docs/ArchicadDG/m_item/README.md)
+* [Panel](Docs/ArchicadDG/m_panel/README.md) ![Video][video_url] ![Example][example_url]
+* [Dialog](Docs/ArchicadDG/m_dialog/README.md) ![Video][video_url] ![Example][example_url]
+* [EditControl](Docs/ArchicadDG/m_edit_control/README.md) ![Video][video_url] ![Example][example_url]
+* [ButtonItem](Docs/ArchicadDG/m_button/README.md) ![Video][video_url] ![Example][example_url]
+
+
+## ArchicadDG Sub Namespace
+
+* [Key](Docs/ArchicadDG/Key/README.md)
+* [Font](Docs/ArchicadDG/Font/README.md)
+* [EOL](Docs/ArchicadDG/EOL/README.md)
 
 ## Internal Modules
 
@@ -131,34 +64,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Change Logs
 
-* Complete the **RadioControl** --2018-9-4
-* Addition **Button** example video--2018-8-29
-* Addition **EditControl** example video--2018-8-24
-* Fixed "Event chain trigger invalid" bugs--2018-8-24
-* Complete the **Button** -- 2018-8-23
-* Complete the **EditControl** document -- 2018-8-21
-* Complete the bridging of the **EditControl** control--2018-8-20
-* Addition **PanelObserver** example video--2018-8-16
-* Addition **PanelObserver** docs--2018-8-16
-* Addition update plugin video--2018-8-15
-* Addition Palette example video--2018-8-14
-* Addition helloworld example video--2018-8-13
-* Modify the project language to English--2018-8-9
-* 补充完成ArchicadDG模块下的界面、对话框等文档--2018-8-9
-* 移植完成ArchicadDG模块下的界面、对话框等接口--2018-8-9
-* 录制PauperTools插件安装与使用视频--2018-8-6
-* 移植ArchicadDG模块下的Rect类并补充相关文档--2018-8-2
-* 移植ArchicadDG模块下的Point类并补充相关文档--2018-8-2
-* 调整文档，增加例程引导--2018-8-1
-* 修复BUG，增加稳定性--2018-7-31
-* 完善插件使用文档，在Initialize函数中增加reload启动模式标识参数--2018-7-31
-* 增加重载代码稳定性--2018-7-31
-* 优化重载代码逻辑，降低异常出错概率--2018-7-30
-* 增加环境搭建与**Logger**模块文档--2018-7-30
-* 增加代码重新载入Python代码的菜单，有效减少不必要的重启AC操作--2018-7-30
-* 修改python输出及错误重定向到Archicad系统报告--2018-7-30
-* 解决Python模块加载路径问题，解决输出重定向问题--2018-7-27
-* 下载简单配置环境即可使用--2018-7-27
+* [ChangeLog](Docs/ChangeLog.md)
 
 ## Donation project
 
