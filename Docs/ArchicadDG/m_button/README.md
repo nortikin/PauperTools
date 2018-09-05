@@ -8,7 +8,7 @@
 * Youttube: https://youtu.be/I2uRGDRBfVM
 
 ### Example
-* [demo](../../Scripts/Tests/dg_button_test.py)
+* [demo](../../../Scripts/Tests/dg_button_test.py)
 
 ### Testing
 ```

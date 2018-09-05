@@ -1,5 +1,6 @@
 ## ChangeLog
 
+* Complete the **RadioControl** document --2018-9-5
 * Adjust document structure --2018-9-5
 * Complete the **RadioControl** --2018-9-4
 * Addition **Button** example video--2018-8-29

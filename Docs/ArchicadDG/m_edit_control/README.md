@@ -8,7 +8,7 @@
 * Youttube: https://youtu.be/d6qyalsb0Vs
 
 ### Example
-* [demo](../../Scripts/Tests/dg_edit_test.py)
+* [demo](../../../Scripts/Tests/dg_edit_test.py)
 
 ### Testing
 ```

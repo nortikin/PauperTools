@@ -6,6 +6,7 @@
 ### Children Class
 * [EditControl](../m_edit_control/EditControl.md)
 * [ButtonItem](../m_button/ButtonItem.md)
+* [RadioItem](../m_radio_item/RadioItem.md)
 
 ### Import
 ```

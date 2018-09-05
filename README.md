@@ -40,14 +40,15 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## ArchicadDG Namespace
 
-* [Point](Docs/ArchicadDG/Point.md)
-* [Rect](Docs/ArchicadDG/Rect.md)
+* [Point](Docs/ArchicadDG/Point.md) ![Example][example_url]
+* [Rect](Docs/ArchicadDG/Rect.md) ![Example][example_url]
 * [CharRange](Docs/ArchicadDG/CharRange.md)
 * [ItemBase](Docs/ArchicadDG/m_item/README.md)
 * [Panel](Docs/ArchicadDG/m_panel/README.md) ![Video][video_url] ![Example][example_url]
 * [Dialog](Docs/ArchicadDG/m_dialog/README.md) ![Video][video_url] ![Example][example_url]
 * [EditControl](Docs/ArchicadDG/m_edit_control/README.md) ![Video][video_url] ![Example][example_url]
 * [ButtonItem](Docs/ArchicadDG/m_button/README.md) ![Video][video_url] ![Example][example_url]
+* [RadioItem](Docs/ArchicadDG/m_radio_item/README.md) ![Example][example_url]
 
 
 ## ArchicadDG Sub Namespace
@@ -58,7 +59,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Internal Modules
 
-* [Thread](Docs/Py_Thread.md)
+* [Thread](Docs/Py_Thread.md) 
 
 ## Third Part Modules
 
