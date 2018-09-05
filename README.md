@@ -11,6 +11,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Contact
 * QQ Group:479634378
+* Author QQ:502554248
 * Author Messenger
 
 <img src="Imgs/messager.JPG" width="256px" height="256px" />
@@ -41,6 +42,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 * [Point](Docs/ArchicadDG/Point.md)
 * [Rect](Docs/ArchicadDG/Rect.md)
+* [CharRange](Docs/ArchicadDG/CharRange.md)
 * [ItemBase](Docs/ArchicadDG/m_item/README.md)
 * [Panel](Docs/ArchicadDG/m_panel/README.md) ![Video][video_url] ![Example][example_url]
 * [Dialog](Docs/ArchicadDG/m_dialog/README.md) ![Video][video_url] ![Example][example_url]
