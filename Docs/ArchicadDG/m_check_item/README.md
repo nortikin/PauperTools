@@ -1,5 +1,5 @@
 ### Example
-* [demo](../../../Scripts/Tests/dg_button_test.py)
+* [demo](../../../Scripts/Tests/dg_check_test.py)
 
 ### Testing
 ```
