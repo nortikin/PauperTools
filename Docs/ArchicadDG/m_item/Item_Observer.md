@@ -7,6 +7,8 @@
 * [PosIntEditObserver](../m_edit_control/PosIntEdit_Observer.md)
 * [IntEditObserver](../m_edit_control/IntEdit_Observer.md)
 * [ButtonItemObserver](../m_button/ButtonItem_Observer.md)
+* [RadioItemObserver](../m_radio_item/RadioItem_Observer.md)
+* [CheckItemObserver](../m_check_item/CheckItem_Observer.md)
 
 ### Import
 ```

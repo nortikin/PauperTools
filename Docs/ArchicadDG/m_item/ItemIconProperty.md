@@ -14,6 +14,9 @@
 * [IconRadioButton](../m_radio_item/IconRadioButton.md)
 * [PushRadio](../m_radio_item/PushRadio.md)
 * [IconPushRadio](../m_radio_item/IconPushRadio.md)
+* [IconCheckBox](../m_check_item/IconCheckBox.md)
+* [PushCheck](../m_check_item/PushCheck.md)
+* [IconPushCheck](../m_check_item/IconPushCheck.md)
 
 ### Import
 * Waiting for improvement

@@ -1,5 +1,6 @@
 ## ChangeLog
 
+* Complete the **CheckControl** document --2018-9-11
 * Complete the **CheckControl** & example --2018-9-10
 * Complete the **RadioControl** document --2018-9-5
 * Adjust document structure --2018-9-5

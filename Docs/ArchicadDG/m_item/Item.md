@@ -7,6 +7,7 @@
 * [EditControl](../m_edit_control/EditControl.md)
 * [ButtonItem](../m_button/ButtonItem.md)
 * [RadioItem](../m_radio_item/RadioItem.md)
+* [CheckItem](../m_check_item/CheckItem.md)
 
 ### Import
 ```
