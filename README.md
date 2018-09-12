@@ -11,14 +11,6 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 
 ## Contact
 * QQ Group:479634378
-* Author QQ:502554248
-* Author Messenger
-
-<img src="Imgs/messager.JPG" width="256px" height="256px" />
-
-* Author Wechat
-
-<img src="Imgs/wechat.jpg" width="256px" height="340px" />
 
 ## Install
 
@@ -76,11 +68,6 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 **WeChat Pay**
 
 <img src="Imgs/wechat_donation.jpg" width="384px" height="384px" />
-
-**AliPay**
-
-<img src="Imgs/alipay_donation.jpg" width="384px" height="384px" />
-
 
 
 [video_url]:https://img.shields.io/badge/Video-OK-brightgreen.svg
