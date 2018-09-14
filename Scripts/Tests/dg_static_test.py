@@ -53,7 +53,7 @@ class Form(Palette):
         self.rt3_obs.StaticTextClicked=self.static_click
         self.rt3_obs.StaticTextDoubleClicked=self.static_double
         self.rt3_obs.StaticTextMouseMoved=self.static_move
-        #self.rt3.EnableMouseMoveEvent()
+        self.rt3.EnableMouseMoveEvent()
         self.rt3.Show()
 
         self.gb1=GroupBox(self,Rect(Point(10,380),80,80),GroupBox.Primary)

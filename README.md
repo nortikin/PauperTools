@@ -49,6 +49,9 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * [Font](Docs/ArchicadDG/Font/README.md)
 * [EOL](Docs/ArchicadDG/EOL/README.md)
 
+## ArchicadGfx Namespace
+* [Color](Docs/ArchicadGfx/Color.md)
+
 ## Internal Modules
 
 * [Thread](Docs/Py_Thread.md) 
