@@ -1,5 +1,16 @@
 ## Install Plugin 
 
+## Supported
+
+### Windows 7 SP1
+* **Archicad 21 4022** ![pass][pass_url]
+* **Archicad 21 5010** ![pass][pass_url]
+
+### Windows 10 
+* **Archicad 21 4022**
+* **Archicad 21 5010**
+
+
 ### Videos
 * Youttube: https://www.youtube.com/watch?v=a9j51calY_M
 * XiGua: https://www.365yg.com/i6587947503209939470#mid=1586018998732814
@@ -22,3 +33,6 @@
 * Run ```python --version``` in Terminal. Verify that Python is installed successfully
 * Run ```pip --version``` in Terminal. Verify that Pip is installed successfully
 * Installation completed
+
+
+[pass_url]:https://img.shields.io/badge/pass-ok-brightgreen.svg
