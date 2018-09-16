@@ -8,6 +8,9 @@
 * [ButtonItem](../m_button/ButtonItem.md)
 * [RadioItem](../m_radio_item/RadioItem.md)
 * [CheckItem](../m_check_item/CheckItem.md)
+* [StaticText](../m_static_item/StaticText.md)
+* [GroupBox](../m_static_item/GroupBox.md)
+* [Separator](../m_static_item/Separator.md)
 
 ### Import
 ```

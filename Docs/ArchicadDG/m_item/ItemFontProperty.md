@@ -11,6 +11,8 @@
 * [PushRadio](../m_radio_item/PushRadio.md)
 * [CheckBox](../m_check_item/CheckBox.md)
 * [PushCheck](../m_check_item/PushCheck.md)
+* [StaticText](../m_static_item/StaticText.md)
+* [GroupBox](../m_static_item/GroupBox.md)
 
 ### Import
 ```

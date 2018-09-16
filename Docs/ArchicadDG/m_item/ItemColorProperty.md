@@ -4,7 +4,7 @@
 * [ItemBase](ItemBase.md)
 
 ### Children Class
-
+* [StaticText](../m_static_item/StaticText.md)
 
 ### Import
 ```

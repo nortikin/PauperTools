@@ -9,6 +9,7 @@
 * [ButtonItemObserver](../m_button/ButtonItem_Observer.md)
 * [RadioItemObserver](../m_radio_item/RadioItem_Observer.md)
 * [CheckItemObserver](../m_check_item/CheckItem_Observer.md)
+* [StaticTextObserver](../m_static_item/StaticText_Observer.md)
 
 ### Import
 ```
