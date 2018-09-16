@@ -9,6 +9,7 @@
 * [ItemTextLengthLimitProperty](ItemTextLengthLimitProperty.md)
 * [ItemTextProperty](ItemTextProperty.md)
 * [ItemVariousProperty](ItemVariousProperty.md)
+* [ItemColorProperty](ItemColorProperty.md)
 
 
 
