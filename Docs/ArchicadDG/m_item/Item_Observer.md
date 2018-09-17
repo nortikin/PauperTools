@@ -10,6 +10,8 @@
 * [RadioItemObserver](../m_radio_item/RadioItem_Observer.md)
 * [CheckItemObserver](../m_check_item/CheckItem_Observer.md)
 * [StaticTextObserver](../m_static_item/StaticText_Observer.md)
+* [BarControlObserver](../m_bar_control/BarControl_Observer.md)
+* [ScrollBarObserver](../m_bar_control/ScrollBar_Observer.md)
 
 ### Import
 ```

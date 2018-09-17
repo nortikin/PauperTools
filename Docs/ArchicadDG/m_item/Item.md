@@ -11,6 +11,9 @@
 * [StaticText](../m_static_item/StaticText.md)
 * [GroupBox](../m_static_item/GroupBox.md)
 * [Separator](../m_static_item/Separator.md)
+* [BarControl](../m_bar_control/BarControl.md)
+* [ScrollBar](../m_bar_control/ScrollBar.md)
+* [ProgressBar](../m_bar_control/ProgressBar.md)
 
 ### Import
 ```

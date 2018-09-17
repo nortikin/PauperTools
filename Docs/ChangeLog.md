@@ -1,5 +1,6 @@
 ## ChangeLog
 
+* Complete the **BarControl** document --2018-9-17
 * Complete the **BarControl** & example --2018-9-16
 * Complete the **StaticControl** document --2018-9-16
 * Complete the **StaticControl** & example --2018-9-11
