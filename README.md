@@ -44,6 +44,7 @@ PauperTools is a bridge-based plug-in developed specifically for Archicad archit
 * [CheckItem](Docs/ArchicadDG/m_check_item/README.md) ![Example][example_url]
 * [StaticText](Docs/ArchicadDG/m_static_item/README.md) ![Example][example_url]
 * [BarControl](Docs/ArchicadDG/m_bar_control/README.md) ![Example][example_url]
+* [DateTime](Docs/ArchicadDG/m_date_time/README.md) ![Example][example_url]
 
 ## ArchicadDG Sub Namespace
 

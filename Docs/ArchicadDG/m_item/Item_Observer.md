@@ -12,6 +12,7 @@
 * [StaticTextObserver](../m_static_item/StaticText_Observer.md)
 * [BarControlObserver](../m_bar_control/BarControl_Observer.md)
 * [ScrollBarObserver](../m_bar_control/ScrollBar_Observer.md)
+* [DateTimeObserver](../m_date_time/DateTime_Observer.md)
 
 ### Import
 ```
