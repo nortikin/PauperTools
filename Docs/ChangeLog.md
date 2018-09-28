@@ -1,22 +1,23 @@
 ## ChangeLog
 
-* Complete the **ListBox** & example & document--2018-9-25
-* Complete the **DateTime** & example & document--2018-9-17
-* Complete the **BarControl** document --2018-9-17
-* Complete the **BarControl** & example --2018-9-16
-* Complete the **StaticControl** document --2018-9-16
-* Complete the **StaticControl** & example --2018-9-11
-* Complete the **CheckControl** document --2018-9-11
-* Complete the **CheckControl** & example --2018-9-10
-* Complete the **RadioControl** document --2018-9-5
+* Addition the **ListView** & example --2018-9-28
+* Addition the **ListBox** & example & document--2018-9-25
+* Addition the **DateTime** & example & document--2018-9-17
+* Addition the **BarControl** document --2018-9-17
+* Addition the **BarControl** & example --2018-9-16
+* Addition the **StaticControl** document --2018-9-16
+* Addition the **StaticControl** & example --2018-9-11
+* Addition the **CheckControl** document --2018-9-11
+* Addition the **CheckControl** & example --2018-9-10
+* Addition the **RadioControl** document --2018-9-5
 * Adjust document structure --2018-9-5
-* Complete the **RadioControl** --2018-9-4
+* Addition the **RadioControl** --2018-9-4
 * Addition **Button** example video--2018-8-29
 * Addition **EditControl** example video--2018-8-24
 * Fixed "Event chain trigger invalid" bugs--2018-8-24
-* Complete the **Button** -- 2018-8-23
-* Complete the **EditControl** document -- 2018-8-21
-* Complete the bridging of the **EditControl** control--2018-8-20
+* Addition the **Button** -- 2018-8-23
+* Addition the **EditControl** document -- 2018-8-21
+* Addition the bridging of the **EditControl** control--2018-8-20
 * Addition **PanelObserver** example video--2018-8-16
 * Addition **PanelObserver** docs--2018-8-16
 * Addition update plugin video--2018-8-15
