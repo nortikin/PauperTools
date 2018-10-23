@@ -1,5 +1,5 @@
 
-import Tests.dg_bar_control_test as bar_control_test
+import Tests.dg_pushmenu_test as pushmenu_test
 
 class PyMain(object):
     def __init__(self):
@@ -11,7 +11,7 @@ class PyMain(object):
         pass
     
     def Initialize(self,reload):
-        self.frm=bar_control_test.Form()
+        self.frm=pushmenu_test.Form()
         self.frm.Show()
         print 'PyMain.Initialize' #must be print this message
         pass
