@@ -1,5 +1,6 @@
 ## ChangeLog
 
+* Addition the (**PopUp** **PushMenu**) document --2018-10-24
 * Addition the (**PopUp** **PushMenu**) & example --2018-10-23
 * Addition the **ListView** document --2018-10-8
 * Addition the **ListView** & example --2018-9-28

@@ -15,6 +15,8 @@
 * [DateTimeObserver](../m_date_time/DateTime_Observer.md)
 * [ListBoxObserver](../m_list_box/ListBox_Observer.md)
 * [ListViewObserver](../m_list_view/ListView_Observer.md)
+* [PopUpObserver](../m_pop_up/PopUp_Observer.md)
+* [PushMenuObserver](../m_push_menu/PushMenu_Observer.md)
 
 ### Import
 ```
