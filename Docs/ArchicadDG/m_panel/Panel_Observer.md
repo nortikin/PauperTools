@@ -145,7 +145,3 @@ from ArchicadDG import PanelObserver
 * **e.AllowRegistration[Boolean]**:
 * Event handler for panel change registeration requested notification.
 
-#### IsInputEnabled([Panel](Panel.md) panel,IsInputEnabledEvent e)
-* **e.Item[[Item](../m_item/Item.md)]**:Retrieves the item above which the event occured.
-* **InputStatus**: return value(default return **InputStatus_Default**)
-* Event handler for panel is input enabled notification.
