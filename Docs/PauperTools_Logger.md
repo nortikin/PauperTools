@@ -1,7 +1,7 @@
 ## Logger module
 
 ### Videos
-* Youttube: https://youtu.be/cAELRQT4ZoM
+* Youtube: https://youtu.be/cAELRQT4ZoM
 * XiGua: https://url.cn/5HCujoP
 
 ### Import
