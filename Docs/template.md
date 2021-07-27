@@ -4,7 +4,7 @@
 * Waiting for improvement
 
 ### Videos
-* Youttube: 
+* Youtube: 
 * XiGua: 
 
 ### Parent Class
